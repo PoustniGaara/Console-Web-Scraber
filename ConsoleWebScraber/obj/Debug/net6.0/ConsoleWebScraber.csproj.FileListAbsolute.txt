@@ -1,0 +1,17 @@
+C:\Users\vikto\Desktop\UCN\programming projects\ConsoleWebScraber\bin\Debug\net6.0\ConsoleWebScraber.exe
+C:\Users\vikto\Desktop\UCN\programming projects\ConsoleWebScraber\bin\Debug\net6.0\ConsoleWebScraber.deps.json
+C:\Users\vikto\Desktop\UCN\programming projects\ConsoleWebScraber\bin\Debug\net6.0\ConsoleWebScraber.runtimeconfig.json
+C:\Users\vikto\Desktop\UCN\programming projects\ConsoleWebScraber\bin\Debug\net6.0\ConsoleWebScraber.dll
+C:\Users\vikto\Desktop\UCN\programming projects\ConsoleWebScraber\bin\Debug\net6.0\ConsoleWebScraber.pdb
+C:\Users\vikto\Desktop\UCN\programming projects\ConsoleWebScraber\obj\Debug\net6.0\ConsoleWebScraber.csproj.AssemblyReference.cache
+C:\Users\vikto\Desktop\UCN\programming projects\ConsoleWebScraber\obj\Debug\net6.0\ConsoleWebScraber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\Desktop\UCN\programming projects\ConsoleWebScraber\obj\Debug\net6.0\ConsoleWebScraber.AssemblyInfoInputs.cache
+C:\Users\vikto\Desktop\UCN\programming projects\ConsoleWebScraber\obj\Debug\net6.0\ConsoleWebScraber.AssemblyInfo.cs
+C:\Users\vikto\Desktop\UCN\programming projects\ConsoleWebScraber\obj\Debug\net6.0\ConsoleWebScraber.csproj.CoreCompileInputs.cache
+C:\Users\vikto\Desktop\UCN\programming projects\ConsoleWebScraber\obj\Debug\net6.0\ConsoleWebScraber.dll
+C:\Users\vikto\Desktop\UCN\programming projects\ConsoleWebScraber\obj\Debug\net6.0\refint\ConsoleWebScraber.dll
+C:\Users\vikto\Desktop\UCN\programming projects\ConsoleWebScraber\obj\Debug\net6.0\ConsoleWebScraber.pdb
+C:\Users\vikto\Desktop\UCN\programming projects\ConsoleWebScraber\obj\Debug\net6.0\ConsoleWebScraber.genruntimeconfig.cache
+C:\Users\vikto\Desktop\UCN\programming projects\ConsoleWebScraber\obj\Debug\net6.0\ref\ConsoleWebScraber.dll
+C:\Users\vikto\Desktop\UCN\programming projects\ConsoleWebScraber\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\vikto\Desktop\UCN\programming projects\ConsoleWebScraber\obj\Debug\net6.0\ConsoleWebScraber.csproj.CopyComplete

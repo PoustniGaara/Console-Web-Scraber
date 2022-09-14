@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EPXCxZLYLJTKGSOt7XKmA55Fqim+AdM/v7b1upylYK7lHeZtdGT9kK4fHRgNwEc7+rrc//LpzJwBz7THFKotnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikto\\Desktop\\UCN\\programming projects\\ConsoleWebScraber\\ConsoleWebScraber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikto\\.nuget\\packages\\htmlagilitypack\\1.11.45\\htmlagilitypack.1.11.45.nupkg.sha512"
+  ],
+  "logs": []
+}
